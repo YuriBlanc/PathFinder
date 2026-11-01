@@ -6,7 +6,7 @@ Pathfinder is a bilingual (English / Vietnamese) web app that helps people in Ho
 
 > **Who we are:** this is the work of our group, **Crusaders**, built as our project for **Swin-Biz Rockstar**.
 
-> **Demo project.** Traffic levels, parking, ride-hail prices, the bus timetable and the metro line are **sample data**. Weather is pulled live from Open-Meteo when available and falls back to a sample snapshot. Nothing here should be used for real trip decisions yet.
+> **Demo project.** Traffic levels, parking, ride-hail prices, the bus timetable and the metro line are **sample data**. Weather is pulled live from Open-Meteo when available and falls back to a sample snapshot. Nothing here should be used for real trip decision yet.
 
 
 <p align="center"><img src="public/images/readme-banner.png" alt="Pathfinder home page" width="100%"></p>
